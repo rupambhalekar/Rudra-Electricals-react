@@ -1,0 +1,2 @@
+/* Vite default reset intentionally removed — styles.css (imported in App.jsx) owns all theming. */
+* { box-sizing: border-box; }

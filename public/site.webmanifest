@@ -1,0 +1,13 @@
+{
+  "name": "Rudra Electronics",
+  "short_name": "Rudra Electronics",
+  "description": "CCTV, Electrical Wiring & Lighting Solutions in Indore since 2003.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0F8B8D",
+  "icons": [
+    { "src": "/assets/favicon-192.webp", "sizes": "192x192", "type": "image/webp" },
+    { "src": "/assets/apple-touch-icon.webp", "sizes": "512x512", "type": "image/webp" }
+  ]
+}
